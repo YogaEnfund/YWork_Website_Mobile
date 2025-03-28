@@ -298,7 +298,7 @@ export default function Home() {
             />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/ywork.ai/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -310,7 +310,7 @@ export default function Home() {
             />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/company/ywork.ai"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -322,7 +322,7 @@ export default function Home() {
             />
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/ywork_"
             target="_blank"
             rel="noopener noreferrer"
           >
